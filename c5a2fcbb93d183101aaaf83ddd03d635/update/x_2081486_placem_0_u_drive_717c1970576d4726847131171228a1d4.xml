@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_2081486_placem_0_u_drive">
+  <x_2081486_placem_0_u_drive action="INSERT_OR_UPDATE">
+    <sys_id>717c1970576d4726847131171228a1d4</sys_id>
+    <sys_scope display_value="x_2081486_placem_0">c5a2fcbb93d183101aaaf83ddd03d635</sys_scope>
+    <sys_update_name>x_2081486_placem_0_u_drive_717c1970576d4726847131171228a1d4</sys_update_name>
+    <company>4fedc4fa88f745a6ae6b3af76b81e0a9</company>
+    <min_cgpa>7.5</min_cgpa>
+    <role>System Engineer</role>
+    <status>draft</status>
+  </x_2081486_placem_0_u_drive>
+</record_update>

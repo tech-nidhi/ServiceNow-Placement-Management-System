@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_2081486_placem_0_u_application">
+  <x_2081486_placem_0_u_application action="INSERT_OR_UPDATE">
+    <sys_id>64b9d9abc32d4bc6aa3fb5ad4c50a354</sys_id>
+    <sys_scope display_value="x_2081486_placem_0">c5a2fcbb93d183101aaaf83ddd03d635</sys_scope>
+    <sys_update_name>x_2081486_placem_0_u_application_64b9d9abc32d4bc6aa3fb5ad4c50a354</sys_update_name>
+    <drive>0b41dc3049124dbc9d4c410fb9cbe7b8</drive>
+    <status>applied</status>
+    <student>5d1229c8b13b4648b32f89666df4c257</student>
+  </x_2081486_placem_0_u_application>
+</record_update>
