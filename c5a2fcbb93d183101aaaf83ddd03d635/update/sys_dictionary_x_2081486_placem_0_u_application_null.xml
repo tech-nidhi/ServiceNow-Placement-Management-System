@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_dictionary">
+  <sys_dictionary action="INSERT_OR_UPDATE" element="" table="x_2081486_placem_0_u_application">
+    <sys_id>939c08169a9940fd98ad35714dde6bc5</sys_id>
+    <sys_scope display_value="x_2081486_placem_0">c5a2fcbb93d183101aaaf83ddd03d635</sys_scope>
+    <sys_update_name>sys_dictionary_x_2081486_placem_0_u_application_null</sys_update_name>
+    <active>true</active>
+    <attributes/>
+    <audit>false</audit>
+    <element/>
+    <internal_type>collection</internal_type>
+    <name>x_2081486_placem_0_u_application</name>
+    <read_only>false</read_only>
+    <text_index>false</text_index>
+  </sys_dictionary>
+</record_update>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_choice_set field="status" table="x_2081486_placem_0_u_drive">
+    <sys_choice action="INSERT_OR_UPDATE">
+      <sys_id>d05d924baa1945e6963dde6f8e10ae2a</sys_id>
+      <name>x_2081486_placem_0_u_drive</name>
+      <element>status</element>
+      <label>Draft</label>
+      <value>draft</value>
+      <sequence>0</sequence>
+      <inactive>false</inactive>
+      <inactive_on_update>false</inactive_on_update>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE">
+      <sys_id>d3bc484e422f40dfb5015493a87dc1cc</sys_id>
+      <name>x_2081486_placem_0_u_drive</name>
+      <element>status</element>
+      <label>Published</label>
+      <value>published</value>
+      <sequence>1</sequence>
+      <inactive>false</inactive>
+      <inactive_on_update>false</inactive_on_update>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE">
+      <sys_id>9bb73e3e59fb4d2ea38907640e741be3</sys_id>
+      <name>x_2081486_placem_0_u_drive</name>
+      <element>status</element>
+      <label>Closed</label>
+      <value>closed</value>
+      <sequence>2</sequence>
+      <inactive>false</inactive>
+      <inactive_on_update>false</inactive_on_update>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice_set action="INSERT_OR_UPDATE">
+      <sys_id>a0da63053d144b4788c0c077c24fc43e</sys_id>
+      <sys_scope display_value="x_2081486_placem_0">c5a2fcbb93d183101aaaf83ddd03d635</sys_scope>
+      <name>x_2081486_placem_0_u_drive</name>
+      <element>status</element>
+    </sys_choice_set>
+  </sys_choice_set>
+</record_update>

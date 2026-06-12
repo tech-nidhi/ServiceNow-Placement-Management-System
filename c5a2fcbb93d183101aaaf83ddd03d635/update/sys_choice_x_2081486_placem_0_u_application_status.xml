@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_choice_set field="status" table="x_2081486_placem_0_u_application">
+    <sys_choice action="INSERT_OR_UPDATE">
+      <sys_id>54de7ed56606481d8ab6c4e3a132ad95</sys_id>
+      <name>x_2081486_placem_0_u_application</name>
+      <element>status</element>
+      <label>Applied</label>
+      <value>applied</value>
+      <sequence>0</sequence>
+      <inactive>false</inactive>
+      <inactive_on_update>false</inactive_on_update>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE">
+      <sys_id>dd0722316e924365806427f619310293</sys_id>
+      <name>x_2081486_placem_0_u_application</name>
+      <element>status</element>
+      <label>Shortlisted</label>
+      <value>shortlisted</value>
+      <sequence>1</sequence>
+      <inactive>false</inactive>
+      <inactive_on_update>false</inactive_on_update>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE">
+      <sys_id>891b882042c743e289b9971a79736b0c</sys_id>
+      <name>x_2081486_placem_0_u_application</name>
+      <element>status</element>
+      <label>Rejected</label>
+      <value>rejected</value>
+      <sequence>2</sequence>
+      <inactive>false</inactive>
+      <inactive_on_update>false</inactive_on_update>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE">
+      <sys_id>ae55f0e0593d47a98221abbb16248d3f</sys_id>
+      <name>x_2081486_placem_0_u_application</name>
+      <element>status</element>
+      <label>Selected</label>
+      <value>selected</value>
+      <sequence>3</sequence>
+      <inactive>false</inactive>
+      <inactive_on_update>false</inactive_on_update>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice_set action="INSERT_OR_UPDATE">
+      <sys_id>7064807675e44482a877246e0300b2b6</sys_id>
+      <sys_scope display_value="x_2081486_placem_0">c5a2fcbb93d183101aaaf83ddd03d635</sys_scope>
+      <name>x_2081486_placem_0_u_application</name>
+      <element>status</element>
+    </sys_choice_set>
+  </sys_choice_set>
+</record_update>
