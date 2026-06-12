@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_module">
+  <sys_app_module action="INSERT_OR_UPDATE">
+    <sys_id>9292da8030b44178a6b42d9e5f4d199f</sys_id>
+    <sys_scope display_value="x_2081486_placem_0">c5a2fcbb93d183101aaaf83ddd03d635</sys_scope>
+    <sys_update_name>sys_app_module_9292da8030b44178a6b42d9e5f4d199f</sys_update_name>
+    <active>true</active>
+    <application>6b5c7ffd8717455f949e7c3a2a614607</application>
+    <link_type>LIST</link_type>
+    <name>x_2081486_placem_0_u_drive</name>
+    <order>200</order>
+    <title>Placement Drives</title>
+  </sys_app_module>
+</record_update>

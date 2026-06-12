@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_application">
+  <sys_app_application action="INSERT_OR_UPDATE">
+    <sys_id>6b5c7ffd8717455f949e7c3a2a614607</sys_id>
+    <sys_scope display_value="x_2081486_placem_0">c5a2fcbb93d183101aaaf83ddd03d635</sys_scope>
+    <sys_update_name>sys_app_application_6b5c7ffd8717455f949e7c3a2a614607</sys_update_name>
+    <active>true</active>
+    <category/>
+    <description/>
+    <device_type>browser</device_type>
+    <hint/>
+    <name/>
+    <order>100</order>
+    <roles/>
+    <title>Placement Drive Management</title>
+  </sys_app_application>
+</record_update>
