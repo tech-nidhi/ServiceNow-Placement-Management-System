@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="954fb28b63024ebda3c54945580917e2" label="Placement Drive" name="x_2081486_placem_0_u_drive" type="collection">
+        <element label="Company" max_length="32" name="company" reference="x_2081486_placem_0_u_company" type="reference"/>
+        <element label="Deadline" max_length="40" name="deadline" type="glide_date"/>
+        <element choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Closed" sequence="2" value="closed"/>
+                <element inactive_on_update="false" label="Draft" sequence="0" value="draft"/>
+                <element inactive_on_update="false" label="Published" sequence="1" value="published"/>
+            </choice>
+        </element>
+        <element display="true" label="Role" max_length="100" name="role" type="string"/>
+        <element label="Min CGPA" max_length="20" name="min_cgpa" type="decimal"/>
+        <index name="index">
+            <element name="company"/>
+        </index>
+    </element>
+</database>

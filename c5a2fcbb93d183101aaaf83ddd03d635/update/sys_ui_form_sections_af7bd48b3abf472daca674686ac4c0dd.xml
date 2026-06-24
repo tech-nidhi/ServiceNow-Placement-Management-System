@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="af7bd48b3abf472daca674686ac4c0dd" sys_domain="global" table="x_2081486_placem_0_u_company" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-12 12:16:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b0527a7f721d484cbaa0c413064efbdb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_2081486_placem_0_u_company" name="x_2081486_placem_0_u_company" sys_domain="global" view="Default view">af7bd48b3abf472daca674686ac4c0dd</sys_ui_form>
+            <sys_ui_section caption="General" display_value="General" name="x_2081486_placem_0_u_company" sys_domain="global" view="Default view">cef7b5ddf4014b98a6d6e9a9ca203d83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-12 12:16:44</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_2081486_placem_0_u_company</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-12 11:53:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>af7bd48b3abf472daca674686ac4c0dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_2081486_placem_0_u_company</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Placement Drive Management" source="x_2081486_placem_0">c5a2fcbb93d183101aaaf83ddd03d635</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Placement Drive Management">c5a2fcbb93d183101aaaf83ddd03d635</sys_scope>
+            <sys_update_name>sys_ui_form_sections_af7bd48b3abf472daca674686ac4c0dd</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-12 11:53:26</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

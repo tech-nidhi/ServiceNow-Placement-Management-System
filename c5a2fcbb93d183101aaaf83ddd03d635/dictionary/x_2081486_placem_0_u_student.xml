@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="d7e9501eee0542669e4f9fa019688427" label="Student" name="x_2081486_placem_0_u_student" type="collection">
+        <element label="CGPA" max_length="20" name="cgpa" type="decimal"/>
+        <element label="Enrollment No" max_length="40" name="enrollment_no" type="string"/>
+        <element choice="1" label="Branch" max_length="40" name="branch" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="CSE" sequence="0" value="cse"/>
+                <element inactive_on_update="false" label="IT" sequence="1" value="it"/>
+                <element inactive_on_update="false" label="ECE" sequence="3" value="ece"/>
+                <element inactive_on_update="false" label="EE" sequence="4" value="ee"/>
+                <element inactive_on_update="false" label="AIDS" sequence="2" value="aids"/>
+                <element inactive_on_update="false" label="ME" sequence="5" value="me"/>
+            </choice>
+        </element>
+        <element label="Email" max_length="255" name="email" type="email"/>
+        <element display="true" label="Student Name" max_length="100" name="student_name" type="string"/>
+    </element>
+</database>
