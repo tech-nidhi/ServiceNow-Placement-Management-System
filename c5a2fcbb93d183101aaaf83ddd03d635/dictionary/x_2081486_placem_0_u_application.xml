@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="a7f0014d2d8d4127a722c96262835774" label="Application" name="x_2081486_placem_0_u_application" type="collection">
+        <element choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Eligible" value="eligible"/>
+                <element inactive_on_update="false" label="Applied" sequence="0" value="applied"/>
+                <element inactive_on_update="false" label="Rejected" sequence="2" value="rejected"/>
+                <element inactive_on_update="false" label="Selected" sequence="3" value="selected"/>
+                <element inactive_on_update="false" label="Shortlisted" sequence="1" value="shortlisted"/>
+            </choice>
+        </element>
+        <element label="Student" max_length="32" name="student" reference="x_2081486_placem_0_u_student" type="reference"/>
+        <element label="Drive" max_length="32" name="drive" reference="x_2081486_placem_0_u_drive" type="reference"/>
+        <index name="index">
+            <element name="drive"/>
+        </index>
+        <index name="index2">
+            <element name="student"/>
+        </index>
+    </element>
+</database>

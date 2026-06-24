@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="8b458266b47a40b79e61777a868ef46c" label="Company" name="x_2081486_placem_0_u_company" type="collection">
+        <element choice="1" label="Industry" max_length="40" name="industry" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="IT" sequence="0" value="it"/>
+                <element inactive_on_update="false" label="Manufacturing" sequence="3" value="manufacturing"/>
+                <element inactive_on_update="false" label="Finance" sequence="1" value="finance"/>
+                <element inactive_on_update="false" label="Consulting" sequence="2" value="consulting"/>
+                <element inactive_on_update="false" label="Healthcare" sequence="4" value="healthcare"/>
+                <element inactive_on_update="false" label="Other" sequence="5" value="other"/>
+            </choice>
+        </element>
+        <element label="Package" max_length="20" name="package_offered" type="decimal"/>
+        <element display="true" label="Name" max_length="100" name="name" type="string"/>
+    </element>
+</database>

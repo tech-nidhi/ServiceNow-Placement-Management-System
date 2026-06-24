@@ -1,89 +1,141 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-  <sys_ui_section caption="General" section_id="e2e2146800d9430badebb72e001a388f" sys_domain="global" table="x_2081486_placem_0_u_drive" view="Default view">
-    <sys_ui_element action="INSERT_OR_UPDATE">
-      <element>.begin_split</element>
-      <position>0</position>
-      <sys_id>b5d72dbe8cbb49a08328dbcc7531791b</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="General" display_value="General" name="x_2081486_placem_0_u_drive" sys_domain="global" view="Default view">e2e2146800d9430badebb72e001a388f</sys_ui_section>
-      <sys_user/>
-      <type>.begin_split</type>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE">
-      <element>company</element>
-      <position>1</position>
-      <sys_id>82b59398779949b395f041467b05b796</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="General" display_value="General" name="x_2081486_placem_0_u_drive" sys_domain="global" view="Default view">e2e2146800d9430badebb72e001a388f</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE">
-      <element>role</element>
-      <position>2</position>
-      <sys_id>60de4370b037442cacfb8ebe63f80f44</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="General" display_value="General" name="x_2081486_placem_0_u_drive" sys_domain="global" view="Default view">e2e2146800d9430badebb72e001a388f</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE">
-      <element>min_cgpa</element>
-      <position>3</position>
-      <sys_id>e0e95c7f471c4a77af2e22ea28896287</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="General" display_value="General" name="x_2081486_placem_0_u_drive" sys_domain="global" view="Default view">e2e2146800d9430badebb72e001a388f</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE">
-      <element>.split</element>
-      <position>4</position>
-      <sys_id>70c23ea3ee104a3eb637d9e8116820b0</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="General" display_value="General" name="x_2081486_placem_0_u_drive" sys_domain="global" view="Default view">e2e2146800d9430badebb72e001a388f</sys_ui_section>
-      <sys_user/>
-      <type>.split</type>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE">
-      <element>deadline</element>
-      <position>5</position>
-      <sys_id>42706b9848fb4597b3a9fae9f95ac9ce</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="General" display_value="General" name="x_2081486_placem_0_u_drive" sys_domain="global" view="Default view">e2e2146800d9430badebb72e001a388f</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE">
-      <element>status</element>
-      <position>6</position>
-      <sys_id>2856c394106b4f3d88db1d7436b97a8d</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="General" display_value="General" name="x_2081486_placem_0_u_drive" sys_domain="global" view="Default view">e2e2146800d9430badebb72e001a388f</sys_ui_section>
-      <sys_user/>
-      <type/>
-    </sys_ui_element>
-    <sys_ui_element action="INSERT_OR_UPDATE">
-      <element>.end_split</element>
-      <position>7</position>
-      <sys_id>a07a2d004e864dc8bcaac7509097209f</sys_id>
-      <sys_ui_formatter/>
-      <sys_ui_section caption="General" display_value="General" name="x_2081486_placem_0_u_drive" sys_domain="global" view="Default view">e2e2146800d9430badebb72e001a388f</sys_ui_section>
-      <sys_user/>
-      <type>.end_split</type>
-    </sys_ui_element>
-    <sys_ui_section action="INSERT_OR_UPDATE">
-      <caption>General</caption>
-      <header>false</header>
-      <name>x_2081486_placem_0_u_drive</name>
-      <roles/>
-      <sys_domain>global</sys_domain>
-      <sys_id>e2e2146800d9430badebb72e001a388f</sys_id>
-      <sys_scope display_value="x_2081486_placem_0">c5a2fcbb93d183101aaaf83ddd03d635</sys_scope>
-      <sys_user/>
-      <title>false</title>
-      <view_name/>
-      <view>Default view</view>
+    <sys_ui_section caption="General" section_id="e2e2146800d9430badebb72e001a388f" sys_domain="global" table="x_2081486_placem_0_u_drive" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-12 12:16:48</sys_created_on>
+            <sys_id>b5d72dbe8cbb49a08328dbcc7531791b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General" display_value="General" name="x_2081486_placem_0_u_drive" sys_domain="global" view="Default view">e2e2146800d9430badebb72e001a388f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-12 12:16:48</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>company</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-12 12:16:48</sys_created_on>
+            <sys_id>82b59398779949b395f041467b05b796</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General" display_value="General" name="x_2081486_placem_0_u_drive" sys_domain="global" view="Default view">e2e2146800d9430badebb72e001a388f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-12 12:16:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>role</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-12 12:16:48</sys_created_on>
+            <sys_id>60de4370b037442cacfb8ebe63f80f44</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General" display_value="General" name="x_2081486_placem_0_u_drive" sys_domain="global" view="Default view">e2e2146800d9430badebb72e001a388f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-12 12:16:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>min_cgpa</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-12 12:16:48</sys_created_on>
+            <sys_id>e0e95c7f471c4a77af2e22ea28896287</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General" display_value="General" name="x_2081486_placem_0_u_drive" sys_domain="global" view="Default view">e2e2146800d9430badebb72e001a388f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-12 12:16:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-12 12:16:48</sys_created_on>
+            <sys_id>70c23ea3ee104a3eb637d9e8116820b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General" display_value="General" name="x_2081486_placem_0_u_drive" sys_domain="global" view="Default view">e2e2146800d9430badebb72e001a388f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-12 12:16:48</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>deadline</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-12 12:16:48</sys_created_on>
+            <sys_id>42706b9848fb4597b3a9fae9f95ac9ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General" display_value="General" name="x_2081486_placem_0_u_drive" sys_domain="global" view="Default view">e2e2146800d9430badebb72e001a388f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-12 12:16:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-12 12:16:48</sys_created_on>
+            <sys_id>2856c394106b4f3d88db1d7436b97a8d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General" display_value="General" name="x_2081486_placem_0_u_drive" sys_domain="global" view="Default view">e2e2146800d9430badebb72e001a388f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-12 12:16:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-12 12:16:48</sys_created_on>
+            <sys_id>a07a2d004e864dc8bcaac7509097209f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General" display_value="General" name="x_2081486_placem_0_u_drive" sys_domain="global" view="Default view">e2e2146800d9430badebb72e001a388f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-12 12:16:48</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>General</caption>
+            <header>false</header>
+            <name>x_2081486_placem_0_u_drive</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-12 11:53:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e2e2146800d9430badebb72e001a388f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_2081486_placem_0_u_drive</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Placement Drive Management" source="x_2081486_placem_0">c5a2fcbb93d183101aaaf83ddd03d635</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Placement Drive Management">c5a2fcbb93d183101aaaf83ddd03d635</sys_scope>
+            <sys_update_name>sys_ui_section_e2e2146800d9430badebb72e001a388f</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-12 11:53:37</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
     </sys_ui_section>
-  </sys_ui_section>
 </record_update>
